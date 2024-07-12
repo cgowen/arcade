@@ -8,6 +8,6 @@ OnShape cabinet assembly: https://cad.onshape.com/documents/2fd70302999bd67d294d
 
 3D printed button assembly: https://cad.onshape.com/documents/6f03fd3a26405f290bf9d3a9/w/7fcbac6da55869d88fd815f0/e/7aa5c642de203e99c9db4843
 
-Joystick Assembly: https://cad.onshape.com/documents/1d7793801d2a4d8de748bbaa/w/73db9a26cb0c9d3e88edd5c2/e/f8327efe855c3a30d43a8055?renderMode=0&uiState=6690b24637693a27b08fd82b
+Joystick Assembly: https://cad.onshape.com/documents/1d7793801d2a4d8de748bbaa/w/73db9a26cb0c9d3e88edd5c2/e/f8327efe855c3a30d43a8055?renderMode=0&uiState=6690b39937693a27b08fdb8a
 
 Raspberry pi pico gamepad: https://github.com/FeralAI/GP2040
