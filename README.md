@@ -1,7 +1,8 @@
 This project aims to be a skill building excercise for woodworking and electronics with some 3D printing mixed in.
 This page is meant to be a project log as well as a bill of materials for the project
 
-![image](https://github.com/user-attachments/assets/ea0d2399-a703-4150-95a3-b63f06058c10)
+![image](https://github.com/user-attachments/assets/caaeefed-2196-48e4-b35f-5e39aeff46f8)
+
 
 Project links:
 OnShape cabinet assembly: https://cad.onshape.com/documents/2fd70302999bd67d294d9c58/w/49d1ede729af55697e110dd8/e/55eb390648f6f1f8dbbdfb2d
